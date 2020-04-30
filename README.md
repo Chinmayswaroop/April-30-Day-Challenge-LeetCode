@@ -3,7 +3,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 
 # 30 Day Challenge LeetCode Quarantine-Things
 | # | Title | Difficulty |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 136 | Single Number | Easy | 
 | 202 | Happy Number | Easy |
 | 52 |  Maximum Subarray | Easy |
