@@ -2,18 +2,18 @@
 Contains all my Leetcode solutions with Problem statement, their Solutions, Time and Space complexity analaysis.
 
 # 30 Day Challenge LeetCode Quarantine-Things
-S.no| # | Title | Difficulty |
+| # | Title | Difficulty |
 | --- | --- | --- | --- |
 | 136 | Single Number | Easy | 
-| 202 | Happy Number | Easy | Math | 
+| 202 | Happy Number | Easy |
 | 52 |  Maximum Subarray | Easy |
 | 283 |  Move Zeroes | Easy |
 | 122 |  Best Time to Buy and Sell Stock II | Easy |
 | 49 |  Group Anagrams | Medium |
 | NA |  Counting Elements | Easy | 
-| 876 | Middle of the Linked List |
+| 876 | Middle of the Linked List | Easy |
 | 844 |  Backspace String Compare | Easy |
-| 155 |  Min Stack | Easy | Design |
+| 155 |  Min Stack | Easy |
 | 543 | Diameter of Binary Tree | Easy |
 | 1046 | Last Stone Weight | Easy |
 | 525 |  Contiguous Array | Medium |
@@ -32,8 +32,8 @@ S.no| # | Title | Difficulty |
 | 1143 | Longest Common Subsequence | Medium |
 | 221 | Maximal Square | Medium |
 | NA | First Unique Number| NA |
-| 124 |Binary Tree Maximum Path Sum | Medium|
-| NA | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | NA |
+| 124 | Binary Tree Maximum Path Sum | Medium|
+| NA | Valid Sequence from Root to Leaves | NA |
 
 # License
 
